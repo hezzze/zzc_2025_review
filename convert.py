@@ -176,7 +176,21 @@ onMounted(() => {
             # Add ensure full size classes
             # We use absolute inset-0 to force the container to fill the slide
             # But we also need to keep the flex properties for layout
-            final_classes = " ".join(filtered_classes + ["w-full", "h-full", "absolute", "inset-0"])
+            extra_classes = ["w-full", "h-full", "absolute", "inset-0"]
+
+            if filename == "16.html":
+                extra_classes.append("slide-16-fix")
+                script_section += """
+<style>
+.slidev-layout .slide-16-fix p {
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: normal;
+}
+</style>
+"""
+
+            final_classes = " ".join(filtered_classes + extra_classes)
             
             # Construct slide markdown
             # We use a wrapper div to hold the background and layout
