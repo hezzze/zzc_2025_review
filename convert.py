@@ -74,6 +74,10 @@ for filename in files:
             
             # Clean up inner HTML indentation
             inner_html = inner_html.strip()
+
+            # Add regex substitutions to replace padding classes
+            inner_html = re.sub(r'py-10', 'py-4', inner_html)
+            inner_html = re.sub(r'p-8', 'p-6', inner_html)
             
             # Process classes
             # Remove specific fixed dimension classes and ppt-slide
