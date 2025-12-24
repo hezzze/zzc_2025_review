@@ -39,7 +39,7 @@ line-height: 1.2">
 <p class="title-font text-2xl font-medium tracking-widest mb-4" style="color: #4A5568">
 创新驱动 · 技术赋能 · 商业化落地
 </p>
-<div class="flex items-center gap-6 mt-8">
+<div class="flex items-center gap-8 mt-8">
 <div class="flex items-center gap-2">
 <i class="material-icons" style="font-size: 28px;
 color: #BECADB">stars</i>
@@ -72,8 +72,8 @@ letter-spacing: 2px">目录</h1>
 </div>
 
 <div class="flex-grow flex items-center px-16 py-12">
-<div class="w-full grid grid-cols-2 gap-6">
-<div class="group relative p-6 rounded-2xl transition-all duration-300 hover:scale-105" style="background: rgba(255, 255, 255, 0.8);
+<div class="w-full grid grid-cols-2 gap-8">
+<div class="group relative p-8 rounded-2xl transition-all duration-300 hover:scale-105" style="background: rgba(255, 255, 255, 0.8);
 box-shadow: 0 8px 32px rgba(90, 123, 167, 0.1)">
 <div class="absolute top-6 right-8 opacity-10">
 <i class="material-icons" style="font-size: 80px;
@@ -92,7 +92,7 @@ font-size: 32px">年度成果</h2>
 </div>
 </div>
 
-<div class="group relative p-6 rounded-2xl transition-all duration-300 hover:scale-105" style="background: rgba(255, 255, 255, 0.8);
+<div class="group relative p-8 rounded-2xl transition-all duration-300 hover:scale-105" style="background: rgba(255, 255, 255, 0.8);
 box-shadow: 0 8px 32px rgba(90, 123, 167, 0.1)">
 <div class="absolute top-6 right-8 opacity-10">
 <i class="material-icons" style="font-size: 80px;
@@ -111,7 +111,7 @@ font-size: 32px">技术创新</h2>
 </div>
 </div>
 
-<div class="group relative p-6 rounded-2xl transition-all duration-300 hover:scale-105" style="background: rgba(255, 255, 255, 0.8);
+<div class="group relative p-8 rounded-2xl transition-all duration-300 hover:scale-105" style="background: rgba(255, 255, 255, 0.8);
 box-shadow: 0 8px 32px rgba(90, 123, 167, 0.1)">
 <div class="absolute top-6 right-8 opacity-10">
 <i class="material-icons" style="font-size: 80px;
@@ -130,7 +130,7 @@ font-size: 32px">未来规划</h2>
 </div>
 </div>
 
-<div class="group relative p-6 rounded-2xl transition-all duration-300 hover:scale-105" style="background: rgba(255, 255, 255, 0.8);
+<div class="group relative p-8 rounded-2xl transition-all duration-300 hover:scale-105" style="background: rgba(255, 255, 255, 0.8);
 box-shadow: 0 8px 32px rgba(90, 123, 167, 0.1)">
 <div class="absolute top-6 right-8 opacity-10">
 <i class="material-icons" style="font-size: 80px;
@@ -163,9 +163,9 @@ font-size: 40px;
 letter-spacing: 2px">年度概览</h1>
 </div>
 
-<div class="flex-grow flex items-center px-16 py-4">
+<div class="flex-grow flex items-center px-16 py-10">
 <div class="w-full grid grid-cols-2 gap-6">
-<div class="p-6 rounded-2xl" style="background: linear-gradient(135deg, rgba(190, 202, 219, 0.15) 0%, rgba(255, 255, 255, 0.8) 100%);
+<div class="p-8 rounded-2xl" style="background: linear-gradient(135deg, rgba(190, 202, 219, 0.15) 0%, rgba(255, 255, 255, 0.8) 100%);
 box-shadow: 0 8px 32px rgba(90, 123, 167, 0.08)">
 <div class="flex items-start gap-6">
 <div class="flex-shrink-0">
@@ -190,7 +190,7 @@ font-size: 28px">产品矩阵</h3>
 </div>
 </div>
 
-<div class="p-6 rounded-2xl" style="background: linear-gradient(135deg, rgba(190, 202, 219, 0.15) 0%, rgba(255, 255, 255, 0.8) 100%);
+<div class="p-8 rounded-2xl" style="background: linear-gradient(135deg, rgba(190, 202, 219, 0.15) 0%, rgba(255, 255, 255, 0.8) 100%);
 box-shadow: 0 8px 32px rgba(90, 123, 167, 0.08)">
 <div class="flex items-start gap-6">
 <div class="flex-shrink-0">
@@ -215,7 +215,7 @@ font-size: 28px">平台能力</h3>
 </div>
 </div>
 
-<div class="p-6 rounded-2xl" style="background: linear-gradient(135deg, rgba(190, 202, 219, 0.15) 0%, rgba(255, 255, 255, 0.8) 100%);
+<div class="p-8 rounded-2xl" style="background: linear-gradient(135deg, rgba(190, 202, 219, 0.15) 0%, rgba(255, 255, 255, 0.8) 100%);
 box-shadow: 0 8px 32px rgba(90, 123, 167, 0.08)">
 <div class="flex items-start gap-6">
 <div class="flex-shrink-0">
@@ -241,7 +241,7 @@ font-size: 28px">知识产权</h3>
 </div>
 </div>
 
-<div class="p-6 rounded-2xl" style="background: linear-gradient(135deg, rgba(190, 202, 219, 0.15) 0%, rgba(255, 255, 255, 0.8) 100%);
+<div class="p-8 rounded-2xl" style="background: linear-gradient(135deg, rgba(190, 202, 219, 0.15) 0%, rgba(255, 255, 255, 0.8) 100%);
 box-shadow: 0 8px 32px rgba(90, 123, 167, 0.08)">
 <div class="flex items-start gap-6">
 <div class="flex-shrink-0">
@@ -279,7 +279,7 @@ font-size: 40px;
 letter-spacing: 2px">核心产品矩阵</h1>
 </div>
 
-<div class="flex-grow flex items-center px-16 py-4">
+<div class="flex-grow flex items-center px-16 py-10">
 <div class="w-full flex flex-col justify-center">
 <div class="text-center mb-8">
 <div class="inline-block px-8 py-4 rounded-2xl" style="background: linear-gradient(135deg, #5A7BA7 0%, #7A9BC7 100%);
@@ -393,8 +393,8 @@ font-size: 40px;
 letter-spacing: 2px">嗨咚精灵原型展示</h1>
 </div>
 
-<div class="flex-grow flex items-center px-16 py-4">
-<div class="w-full grid grid-cols-2 gap-6">
+<div class="flex-grow flex items-center px-16 py-10">
+<div class="w-full grid grid-cols-2 gap-8">
 <div class="flex flex-col h-full">
 <div class="flex items-center gap-4 mb-6">
 <div class="w-16 h-16 rounded-xl flex items-center justify-center" style="background: linear-gradient(135deg, #5A7BA7 0%, #7A9BC7 100%);
@@ -409,7 +409,7 @@ letter-spacing: 1px">数字幽灵</h2>
 </div>
 </div>
 
-<div class="flex-grow rounded-2xl p-6 flex flex-col" style="background: linear-gradient(135deg, rgba(190, 202, 219, 0.12) 0%, rgba(255, 255, 255, 0.9) 100%);
+<div class="flex-grow rounded-2xl p-8 flex flex-col" style="background: linear-gradient(135deg, rgba(190, 202, 219, 0.12) 0%, rgba(255, 255, 255, 0.9) 100%);
 box-shadow: 0 12px 40px rgba(90, 123, 167, 0.12)">
 <div class="mb-6 flex items-center gap-3">
 <div class="w-2 h-2 rounded-full" style="background: #5A7BA7"></div>
@@ -462,7 +462,7 @@ letter-spacing: 1px">深蓝回响</h2>
 </div>
 </div>
 
-<div class="flex-grow rounded-2xl p-6 flex flex-col" style="background: linear-gradient(135deg, rgba(190, 202, 219, 0.12) 0%, rgba(255, 255, 255, 0.9) 100%);
+<div class="flex-grow rounded-2xl p-8 flex flex-col" style="background: linear-gradient(135deg, rgba(190, 202, 219, 0.12) 0%, rgba(255, 255, 255, 0.9) 100%);
 box-shadow: 0 12px 40px rgba(90, 123, 167, 0.12)">
 <div class="mb-6 flex items-center gap-3">
 <div class="w-2 h-2 rounded-full" style="background: #5A7BA7"></div>
@@ -515,8 +515,8 @@ font-size: 40px;
 letter-spacing: 2px">嗨咚许愿树与PvE</h1>
 </div>
 
-<div class="flex-grow flex items-center px-16 py-4">
-<div class="w-full grid grid-cols-2 gap-6">
+<div class="flex-grow flex items-center px-16 py-10">
+<div class="w-full grid grid-cols-2 gap-8">
 <div class="flex flex-col gap-6">
 <div class="flex items-center gap-4 mb-2">
 <div class="w-14 h-14 rounded-xl flex items-center justify-center" style="background: linear-gradient(135deg, #5A7BA7 0%, #7A9BC7 100%);
@@ -598,7 +598,7 @@ letter-spacing: 1px">嗨咚 PvE</h2>
 </div>
 </div>
 
-<div class="flex-grow rounded-2xl p-6" style="background: linear-gradient(135deg, rgba(190, 202, 219, 0.12) 0%, rgba(255, 255, 255, 0.9) 100%);
+<div class="flex-grow rounded-2xl p-8" style="background: linear-gradient(135deg, rgba(190, 202, 219, 0.12) 0%, rgba(255, 255, 255, 0.9) 100%);
 box-shadow: 0 12px 40px rgba(90, 123, 167, 0.12)">
 <div class="grid grid-cols-3 gap-4 mb-6">
 <div class="text-center p-4 rounded-xl" style="background: rgba(90, 123, 167, 0.08)">
@@ -667,8 +667,8 @@ font-size: 40px;
 letter-spacing: 2px">嗨咚小游戏</h1>
 </div>
 
-<div class="flex-grow flex items-center px-16 py-4">
-<div class="w-full grid grid-cols-2 gap-6">
+<div class="flex-grow flex items-center px-16 py-10">
+<div class="w-full grid grid-cols-2 gap-8">
 <div class="flex flex-col">
 <div class="flex items-center gap-4 mb-6">
 <div class="w-16 h-16 rounded-xl flex items-center justify-center" style="background: linear-gradient(135deg, #5A7BA7 0%, #7A9BC7 100%);
@@ -683,7 +683,7 @@ letter-spacing: 1px">Flappy Pig</h2>
 </div>
 </div>
 
-<div class="flex-grow rounded-2xl p-6" style="background: linear-gradient(135deg, rgba(190, 202, 219, 0.12) 0%, rgba(255, 255, 255, 0.9) 100%);
+<div class="flex-grow rounded-2xl p-8" style="background: linear-gradient(135deg, rgba(190, 202, 219, 0.12) 0%, rgba(255, 255, 255, 0.9) 100%);
 box-shadow: 0 12px 40px rgba(90, 123, 167, 0.12)">
 <div class="mb-6">
 <div class="flex items-center gap-3 mb-4">
@@ -747,7 +747,7 @@ letter-spacing: 1px">夺宝 3D</h2>
 </div>
 </div>
 
-<div class="flex-grow rounded-2xl p-6" style="background: linear-gradient(135deg, rgba(190, 202, 219, 0.12) 0%, rgba(255, 255, 255, 0.9) 100%);
+<div class="flex-grow rounded-2xl p-8" style="background: linear-gradient(135deg, rgba(190, 202, 219, 0.12) 0%, rgba(255, 255, 255, 0.9) 100%);
 box-shadow: 0 12px 40px rgba(90, 123, 167, 0.12)">
 <div class="mb-6">
 <div class="flex items-center gap-3 mb-4">
@@ -813,7 +813,7 @@ letter-spacing: 2px">主线成果</h1>
 color: #5A7BA7">平台能力建设</span>
 </div>
 
-<div class="flex-grow flex items-center px-16 py-4">
+<div class="flex-grow flex items-center px-16 py-8">
 <div class="w-full h-full flex gap-6">
 <div class="w-2/3 flex flex-col gap-5">
 <div class="flex items-center gap-4 mb-2">
@@ -831,7 +831,7 @@ letter-spacing: 1px">双流手环系统</h2>
 
 <div class="flex-grow rounded-2xl p-6" style="background: linear-gradient(135deg, rgba(190, 202, 219, 0.12) 0%, rgba(255, 255, 255, 0.9) 100%);
 box-shadow: 0 12px 40px rgba(90, 123, 167, 0.12)">
-<div class="grid grid-cols-4 gap-4 h-full">
+<div class="grid grid-cols-4 gap-4 h-[300px]">
 <div class="flex flex-col items-center justify-center p-4 rounded-xl transition-all duration-300 hover:scale-105" style="background: rgba(90, 123, 167, 0.08)">
 <i class="material-icons mb-3" style="font-size: 40px;
 color: #5A7BA7">watch</i>
@@ -953,7 +953,7 @@ letter-spacing: 2px">技术架构</h1>
 color: #5A7BA7">AIGC工作流集成</span>
 </div>
 
-<div class="flex-grow flex items-center px-16 py-4">
+<div class="flex-grow flex items-center px-16 py-8">
 <div class="w-full h-full flex gap-5">
 <div class="w-1/2 flex flex-col gap-5">
 <div class="flex items-center gap-4 mb-1">
@@ -1085,7 +1085,7 @@ letter-spacing: 2px">支线成果总览</h1>
 color: #5A7BA7">知识产权与技术创新</span>
 </div>
 
-<div class="flex-grow flex items-center px-16 py-4">
+<div class="flex-grow flex items-center px-16 py-10">
 <div class="w-full h-full flex gap-6">
 <div class="w-2/5 flex flex-col gap-5">
 <div class="flex items-center gap-4 mb-2">
@@ -1101,7 +1101,7 @@ letter-spacing: 1px">课题结题</h2>
 </div>
 </div>
 
-<div class="flex-grow rounded-2xl p-6 flex flex-col justify-center items-center" style="background: linear-gradient(135deg, rgba(190, 202, 219, 0.12) 0%, rgba(255, 255, 255, 0.9) 100%);
+<div class="flex-grow rounded-2xl p-8 flex flex-col justify-center items-center" style="background: linear-gradient(135deg, rgba(190, 202, 219, 0.12) 0%, rgba(255, 255, 255, 0.9) 100%);
 box-shadow: 0 12px 40px rgba(90, 123, 167, 0.12)">
 <div class="text-center mb-4">
 <i class="material-icons" style="font-size: 64px;
@@ -1222,7 +1222,7 @@ letter-spacing: 2px">关键技术研究</h1>
 color: #5A7BA7">6大技术方向</span>
 </div>
 
-<div class="flex-grow flex items-center px-16 py-4">
+<div class="flex-grow flex items-center px-16 py-8">
 <div class="w-full h-full flex flex-col justify-between">
 <div class="grid grid-cols-3 gap-5 mb-5">
 <div class="rounded-2xl p-6 transition-all duration-300 hover:scale-105" style="background: linear-gradient(135deg, rgba(190, 202, 219, 0.15) 0%, rgba(255, 255, 255, 0.95) 100%);
@@ -1340,7 +1340,7 @@ letter-spacing: 2px">创新亮点</h1>
 color: #5A7BA7">AIGC与AI工具建设</span>
 </div>
 
-<div class="flex-grow flex items-center px-16 py-4">
+<div class="flex-grow flex items-center px-16 py-8">
 <div class="w-full h-full flex gap-6">
 <div class="w-1/2 flex flex-col gap-5">
 <div class="flex items-center gap-4 mb-1">
@@ -1456,7 +1456,7 @@ letter-spacing: 2px">团队建设</h1>
 color: #5A7BA7">学习与成长机制</span>
 </div>
 
-<div class="flex-grow flex items-center px-16 py-4">
+<div class="flex-grow flex items-center px-16 py-8">
 <div class="w-full h-full flex gap-6">
 <div class="w-1/2 flex flex-col gap-5">
 <div class="flex items-center gap-4 mb-1">
@@ -1613,7 +1613,7 @@ letter-spacing: 2px">不足与改进</h1>
 color: #5A7BA7">持续优化与成长</span>
 </div>
 
-<div class="flex-grow flex items-center px-16 py-4">
+<div class="flex-grow flex items-center px-16 py-8">
 <div class="w-full h-full grid grid-cols-2 gap-6">
 <div class="rounded-2xl p-6 flex flex-col" style="background: linear-gradient(135deg, rgba(190, 202, 219, 0.08) 0%, rgba(255, 255, 255, 0.95) 100%);
 box-shadow: 0 8px 24px rgba(90, 123, 167, 0.1)">
@@ -1848,7 +1848,7 @@ font-size: 28px">20%+</p>
 ---
 
 <!-- Slide: 16.html -->
-<div class="flex flex-col w-full h-full absolute inset-0 slide-16-fix" style="background: linear-gradient(135deg, #FFF 0%, #F8FAFC 100%)">
+<div class="flex flex-col w-full h-full absolute inset-0" style="background: linear-gradient(135deg, #FFF 0%, #F8FAFC 100%)">
 <div class="h-[85px] flex items-center px-16" style="border-bottom: 2px solid rgba(190, 202, 219, 0.3)">
 <h1 class="title-font font-black" style="color: #5A7BA7;
 font-size: 40px;
@@ -1989,14 +1989,6 @@ font-size: 16px">技术迭代快速</h3>
 </div>
 </div>
 </div>
-
-<style>
-.slidev-layout .slide-16-fix p {
-    margin-top: 0;
-    margin-bottom: 0;
-    line-height: normal;
-}
-</style>
 
 
 ---

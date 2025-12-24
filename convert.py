@@ -76,9 +76,9 @@ for filename in files:
             inner_html = inner_html.strip()
 
             # Add regex substitutions to replace padding classes
-            inner_html = re.sub(r'py-10', 'py-4', inner_html)
-            inner_html = re.sub(r'py-8', 'py-4', inner_html)
-            inner_html = re.sub(r'p-8', 'p-6', inner_html)
+            # inner_html = re.sub(r'py-10', 'py-4', inner_html)
+            # inner_html = re.sub(r'py-8', 'py-4', inner_html)
+            # inner_html = re.sub(r'p-8', 'p-6', inner_html)
             
             # Special handling for Slide 17 (Charts)
             script_section = ""
@@ -176,21 +176,7 @@ onMounted(() => {
             # Add ensure full size classes
             # We use absolute inset-0 to force the container to fill the slide
             # But we also need to keep the flex properties for layout
-            extra_classes = ["w-full", "h-full", "absolute", "inset-0"]
-
-            if filename == "16.html":
-                extra_classes.append("slide-16-fix")
-                script_section += """
-<style>
-.slidev-layout .slide-16-fix p {
-    margin-top: 0;
-    margin-bottom: 0;
-    line-height: normal;
-}
-</style>
-"""
-
-            final_classes = " ".join(filtered_classes + extra_classes)
+            final_classes = " ".join(filtered_classes + ["w-full", "h-full", "absolute", "inset-0"])
             
             # Construct slide markdown
             # We use a wrapper div to hold the background and layout
