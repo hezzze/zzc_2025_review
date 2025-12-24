@@ -60,6 +60,7 @@ color: #5A7BA7">person</i>
 </div>
 </div>
 
+
 ---
 
 <!-- Slide: 2.html -->
@@ -150,6 +151,7 @@ font-size: 32px">资源需求</h2>
 </div>
 </div>
 </div>
+
 
 ---
 
@@ -266,6 +268,7 @@ font-size: 28px">团队建设</h3>
 </div>
 </div>
 
+
 ---
 
 <!-- Slide: 4.html -->
@@ -378,6 +381,7 @@ color: #5A7BA7">快速迭代</span>
 </div>
 </div>
 </div>
+
 
 ---
 
@@ -499,6 +503,7 @@ font-size: 22px">虚拟空间探索</p>
 </div>
 </div>
 </div>
+
 
 ---
 
@@ -651,6 +656,7 @@ font-size: 20px">MR 性能优化</p>
 </div>
 </div>
 
+
 ---
 
 <!-- Slide: 7.html -->
@@ -794,6 +800,7 @@ color: #5A7BA7">extension</i>
 </div>
 </div>
 
+
 ---
 
 <!-- Slide: 8.html -->
@@ -806,7 +813,7 @@ letter-spacing: 2px">主线成果</h1>
 color: #5A7BA7">平台能力建设</span>
 </div>
 
-<div class="flex-grow flex items-center px-16 py-8">
+<div class="flex-grow flex items-center px-16 py-4">
 <div class="w-full h-full flex gap-6">
 <div class="w-2/3 flex flex-col gap-5">
 <div class="flex items-center gap-4 mb-2">
@@ -933,6 +940,7 @@ color: #5A7BA7">check_circle</i>
 </div>
 </div>
 
+
 ---
 
 <!-- Slide: 9.html -->
@@ -945,7 +953,7 @@ letter-spacing: 2px">技术架构</h1>
 color: #5A7BA7">AIGC工作流集成</span>
 </div>
 
-<div class="flex-grow flex items-center px-16 py-8">
+<div class="flex-grow flex items-center px-16 py-4">
 <div class="w-full h-full flex gap-5">
 <div class="w-1/2 flex flex-col gap-5">
 <div class="flex items-center gap-4 mb-1">
@@ -1063,6 +1071,7 @@ color: #5A7BA7">check_circle</i>
 </div>
 </div>
 </div>
+
 
 ---
 
@@ -1200,6 +1209,7 @@ font-size: 18px">持续创新</p>
 </div>
 </div>
 
+
 ---
 
 <!-- Slide: 11.html -->
@@ -1212,7 +1222,7 @@ letter-spacing: 2px">关键技术研究</h1>
 color: #5A7BA7">6大技术方向</span>
 </div>
 
-<div class="flex-grow flex items-center px-16 py-8">
+<div class="flex-grow flex items-center px-16 py-4">
 <div class="w-full h-full flex flex-col justify-between">
 <div class="grid grid-cols-3 gap-5 mb-5">
 <div class="rounded-2xl p-6 transition-all duration-300 hover:scale-105" style="background: linear-gradient(135deg, rgba(190, 202, 219, 0.15) 0%, rgba(255, 255, 255, 0.95) 100%);
@@ -1317,6 +1327,7 @@ font-size: 32px">6<span class="text-2xl ml-1">项</span></p>
 </div>
 </div>
 
+
 ---
 
 <!-- Slide: 12.html -->
@@ -1329,7 +1340,7 @@ letter-spacing: 2px">创新亮点</h1>
 color: #5A7BA7">AIGC与AI工具建设</span>
 </div>
 
-<div class="flex-grow flex items-center px-16 py-8">
+<div class="flex-grow flex items-center px-16 py-4">
 <div class="w-full h-full flex gap-6">
 <div class="w-1/2 flex flex-col gap-5">
 <div class="flex items-center gap-4 mb-1">
@@ -1451,6 +1462,7 @@ line-height: 1">6</p>
 </div>
 </div>
 
+
 ---
 
 <!-- Slide: 13.html -->
@@ -1463,7 +1475,7 @@ letter-spacing: 2px">团队建设</h1>
 color: #5A7BA7">学习与成长机制</span>
 </div>
 
-<div class="flex-grow flex items-center px-16 py-8">
+<div class="flex-grow flex items-center px-16 py-4">
 <div class="w-full h-full flex gap-6">
 <div class="w-1/2 flex flex-col gap-5">
 <div class="flex items-center gap-4 mb-1">
@@ -1607,6 +1619,7 @@ font-size: 24px">精英团队</p>
 </div>
 </div>
 
+
 ---
 
 <!-- Slide: 14.html -->
@@ -1619,7 +1632,7 @@ letter-spacing: 2px">不足与改进</h1>
 color: #5A7BA7">持续优化与成长</span>
 </div>
 
-<div class="flex-grow flex items-center px-16 py-8">
+<div class="flex-grow flex items-center px-16 py-4">
 <div class="w-full h-full grid grid-cols-2 gap-6">
 <div class="rounded-2xl p-6 flex flex-col" style="background: linear-gradient(135deg, rgba(190, 202, 219, 0.08) 0%, rgba(255, 255, 255, 0.95) 100%);
 box-shadow: 0 8px 24px rgba(90, 123, 167, 0.1)">
@@ -1723,6 +1736,7 @@ font-size: 18px">改进措施</h4>
 </div>
 </div>
 </div>
+
 
 ---
 
@@ -1849,6 +1863,7 @@ font-size: 28px">20%+</p>
 </div>
 </div>
 
+
 ---
 
 <!-- Slide: 16.html -->
@@ -1861,7 +1876,7 @@ letter-spacing: 2px">SWOT 分析</h1>
 color: #5A7BA7">战略洞察</span>
 </div>
 
-<div class="flex-grow flex items-center px-16 py-8">
+<div class="flex-grow flex items-center px-16 py-4">
 <div class="w-full h-full grid grid-cols-2 gap-6">
 <div class="rounded-2xl p-6 flex flex-col" style="background: linear-gradient(135deg, rgba(190, 202, 219, 0.12) 0%, rgba(255, 255, 255, 0.95) 100%);
 box-shadow: 0 8px 24px rgba(90, 123, 167, 0.12)">
@@ -1994,6 +2009,7 @@ font-size: 18px">技术迭代快速</h3>
 </div>
 </div>
 
+
 ---
 
 <!-- Slide: 17.html -->
@@ -2041,7 +2057,7 @@ font-size: 28px">高速增长</p>
 </div>
 
 <div class="w-3/5 flex flex-col gap-5">
-<div class="grid grid-cols-2 gap-5 h-[270px]">
+<div class="grid grid-cols-2 gap-5">
 <div class="rounded-2xl p-5 flex flex-col" style="background: linear-gradient(135deg, rgba(190, 202, 219, 0.12) 0%, rgba(255, 255, 255, 0.95) 100%);
 box-shadow: 0 8px 24px rgba(90, 123, 167, 0.12)">
 <div class="flex items-center gap-3 mb-3">
@@ -2139,6 +2155,86 @@ font-size: 32px">XR</p>
 </div>
 </div>
 
+<script setup>
+import { onMounted } from 'vue'
+import Chart from 'chart.js/auto'
+
+onMounted(() => {
+    const lbeCtx = document.getElementById('lbeChart').getContext('2d');
+    new Chart(lbeCtx, {
+        type: 'line',
+        data: {
+            labels: ['2023', '2024', '2025', '2026', '2027', '2028'],
+            datasets: [{
+                label: '市场规模（亿美元）',
+                data: [12, 14.5, 17.2, 20.3, 24.1, 28.7],
+                borderColor: '#5A7BA7',
+                backgroundColor: 'rgba(90, 123, 167, 0.1)',
+                borderWidth: 3,
+                fill: true,
+                tension: 0.4,
+                pointBackgroundColor: '#5A7BA7',
+                pointBorderColor: '#fff',
+                pointBorderWidth: 2,
+                pointRadius: 5,
+                pointHoverRadius: 7
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: { legend: { display: false } },
+            scales: {
+                y: {
+                    beginAtZero: true,
+                    grid: { color: 'rgba(90, 123, 167, 0.1)' },
+                    ticks: { font: { size: 12 }, color: '#718096' }
+                },
+                x: {
+                    grid: { display: false },
+                    ticks: { font: { size: 12 }, color: '#718096' }
+                }
+            }
+        }
+    });
+
+    const aigcCtx = document.getElementById('aigcChart').getContext('2d');
+    new Chart(aigcCtx, {
+        type: 'doughnut',
+        data: {
+            labels: ['视频创意', '图像生成', '文本创作', '音频内容'],
+            datasets: [{
+                data: [35, 28, 22, 15],
+                backgroundColor: [
+                    'rgba(90, 123, 167, 0.85)',
+                    'rgba(90, 123, 167, 0.65)',
+                    'rgba(90, 123, 167, 0.45)',
+                    'rgba(90, 123, 167, 0.25)'
+                ],
+                borderWidth: 0
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+                legend: {
+                    position: 'bottom',
+                    labels: {
+                        font: { size: 11 },
+                        color: '#2D3748',
+                        padding: 10,
+                        usePointStyle: true,
+                        pointStyle: 'circle'
+                    }
+                }
+            }
+        }
+    });
+});
+</script>
+
+
 ---
 
 <!-- Slide: 18.html -->
@@ -2151,151 +2247,152 @@ letter-spacing: 2px">资源需求</h1>
 color: #5A7BA7">需要予以的支持与帮助</span>
 </div>
 
-<div class="flex-grow flex flex-col px-16 py-8">
-<div class="grid grid-cols-3 gap-6 mb-6">
-<div class="rounded-2xl p-6 flex flex-col" style="background: linear-gradient(135deg, rgba(190, 202, 219, 0.15) 0%, rgba(255, 255, 255, 0.95) 100%);
+<div class="flex-grow flex flex-col px-16 py-4">
+<div class="grid grid-cols-3 gap-4 mb-4">
+<div class="rounded-2xl p-4 flex flex-col" style="background: linear-gradient(135deg, rgba(190, 202, 219, 0.15) 0%, rgba(255, 255, 255, 0.95) 100%);
 box-shadow: 0 8px 24px rgba(90, 123, 167, 0.12)">
-<div class="flex items-center gap-3 mb-5">
-<div class="w-14 h-14 rounded-xl flex items-center justify-center flex-shrink-0" style="background: linear-gradient(135deg, #5A7BA7 0%, #7A9BC7 100%)">
-<i class="material-icons text-white" style="font-size: 32px">groups</i>
+<div class="flex items-center gap-3 mb-4">
+<div class="w-12 h-12 rounded-xl flex items-center justify-center flex-shrink-0" style="background: linear-gradient(135deg, #5A7BA7 0%, #7A9BC7 100%)">
+<i class="material-icons text-white" style="font-size: 24px">groups</i>
 </div>
 <h2 class="title-font font-bold" style="color: #5A7BA7;
-font-size: 28px">人力支持</h2>
+font-size: 24px">人力支持</h2>
 </div>
 
-<div class="space-y-4 flex-grow">
-<div class="p-4 rounded-xl" style="background: rgba(90, 123, 167, 0.08)">
-<div class="flex items-center gap-2 mb-2">
-<i class="material-icons" style="font-size: 24px;
+<div class="space-y-3 flex-grow">
+<div class="p-3 rounded-xl" style="background: rgba(90, 123, 167, 0.08)">
+<div class="flex items-center gap-2 mb-1">
+<i class="material-icons" style="font-size: 20px;
 color: #5A7BA7">animation</i>
-<h3 class="font-bold text-lg" style="color: #2D3748">特效制作</h3>
+<h3 class="font-bold text-base" style="color: #2D3748">特效制作</h3>
 </div>
-<p class="text-base" style="color: #718096">提升产品视觉效果与用户体验</p>
+<p class="text-sm" style="color: #718096">提升产品视觉效果与用户体验</p>
 </div>
 
-<div class="p-4 rounded-xl" style="background: rgba(90, 123, 167, 0.08)">
-<div class="flex items-center gap-2 mb-2">
-<i class="material-icons" style="font-size: 24px;
+<div class="p-3 rounded-xl" style="background: rgba(90, 123, 167, 0.08)">
+<div class="flex items-center gap-2 mb-1">
+<i class="material-icons" style="font-size: 20px;
 color: #5A7BA7">badge</i>
-<h3 class="font-bold text-lg" style="color: #2D3748">产品经理</h3>
+<h3 class="font-bold text-base" style="color: #2D3748">产品经理</h3>
 </div>
-<p class="text-base" style="color: #718096">推动产品商业化落地与运营</p>
+<p class="text-sm" style="color: #718096">推动产品商业化落地与运营</p>
 </div>
 
-<div class="p-4 rounded-xl" style="background: rgba(90, 123, 167, 0.08)">
-<div class="flex items-center gap-2 mb-2">
-<i class="material-icons" style="font-size: 24px;
+<div class="p-3 rounded-xl" style="background: rgba(90, 123, 167, 0.08)">
+<div class="flex items-center gap-2 mb-1">
+<i class="material-icons" style="font-size: 20px;
 color: #5A7BA7">code</i>
-<h3 class="font-bold text-lg" style="color: #2D3748">偏后端全栈开发</h3>
+<h3 class="font-bold text-base" style="color: #2D3748">偏后端全栈开发</h3>
 </div>
-<p class="text-base" style="color: #718096">完善技术闭环与服务交付</p>
+<p class="text-sm" style="color: #718096">完善技术闭环与服务交付</p>
 </div>
 </div>
 </div>
 
-<div class="rounded-2xl p-6 flex flex-col" style="background: linear-gradient(135deg, rgba(190, 202, 219, 0.15) 0%, rgba(255, 255, 255, 0.95) 100%);
+<div class="rounded-2xl p-4 flex flex-col" style="background: linear-gradient(135deg, rgba(190, 202, 219, 0.15) 0%, rgba(255, 255, 255, 0.95) 100%);
 box-shadow: 0 8px 24px rgba(90, 123, 167, 0.12)">
-<div class="flex items-center gap-3 mb-5">
-<div class="w-14 h-14 rounded-xl flex items-center justify-center flex-shrink-0" style="background: linear-gradient(135deg, #5A7BA7 0%, #7A9BC7 100%)">
-<i class="material-icons text-white" style="font-size: 32px">devices</i>
+<div class="flex items-center gap-3 mb-4">
+<div class="w-12 h-12 rounded-xl flex items-center justify-center flex-shrink-0" style="background: linear-gradient(135deg, #5A7BA7 0%, #7A9BC7 100%)">
+<i class="material-icons text-white" style="font-size: 24px">devices</i>
 </div>
 <h2 class="title-font font-bold" style="color: #5A7BA7;
-font-size: 28px">物力支持</h2>
+font-size: 24px">物力支持</h2>
 </div>
 
-<div class="space-y-4 flex-grow">
-<div class="p-4 rounded-xl" style="background: rgba(90, 123, 167, 0.08)">
-<div class="flex items-center gap-2 mb-2">
-<i class="material-icons" style="font-size: 24px;
+<div class="space-y-3 flex-grow">
+<div class="p-3 rounded-xl" style="background: rgba(90, 123, 167, 0.08)">
+<div class="flex items-center gap-2 mb-1">
+<i class="material-icons" style="font-size: 20px;
 color: #5A7BA7">view_in_ar</i>
-<h3 class="font-bold text-lg" style="color: #2D3748">XR 设备更新</h3>
+<h3 class="font-bold text-base" style="color: #2D3748">XR 设备更新</h3>
 </div>
-<p class="text-base" style="color: #718096">主流 XR 设备持续迭代与升级</p>
+<p class="text-sm" style="color: #718096">主流 XR 设备持续迭代与升级</p>
 </div>
 
-<div class="p-4 rounded-xl" style="background: rgba(90, 123, 167, 0.08)">
-<div class="flex items-center gap-2 mb-2">
-<i class="material-icons" style="font-size: 24px;
+<div class="p-3 rounded-xl" style="background: rgba(90, 123, 167, 0.08)">
+<div class="flex items-center gap-2 mb-1">
+<i class="material-icons" style="font-size: 20px;
 color: #5A7BA7">phone_iphone</i>
-<h3 class="font-bold text-lg" style="color: #2D3748">苹果生态硬件</h3>
+<h3 class="font-bold text-base" style="color: #2D3748">苹果生态硬件</h3>
 </div>
-<p class="text-base" style="color: #718096">iOS 生态开发设备与工具</p>
+<p class="text-sm" style="color: #718096">iOS 生态开发设备与工具</p>
 </div>
 </div>
 </div>
 
-<div class="rounded-2xl p-6 flex flex-col" style="background: linear-gradient(135deg, rgba(190, 202, 219, 0.15) 0%, rgba(255, 255, 255, 0.95) 100%);
+<div class="rounded-2xl p-4 flex flex-col" style="background: linear-gradient(135deg, rgba(190, 202, 219, 0.15) 0%, rgba(255, 255, 255, 0.95) 100%);
 box-shadow: 0 8px 24px rgba(90, 123, 167, 0.12)">
-<div class="flex items-center gap-3 mb-5">
-<div class="w-14 h-14 rounded-xl flex items-center justify-center flex-shrink-0" style="background: linear-gradient(135deg, #5A7BA7 0%, #7A9BC7 100%)">
-<i class="material-icons text-white" style="font-size: 32px">account_balance_wallet</i>
+<div class="flex items-center gap-3 mb-4">
+<div class="w-12 h-12 rounded-xl flex items-center justify-center flex-shrink-0" style="background: linear-gradient(135deg, #5A7BA7 0%, #7A9BC7 100%)">
+<i class="material-icons text-white" style="font-size: 24px">account_balance_wallet</i>
 </div>
 <h2 class="title-font font-bold" style="color: #5A7BA7;
-font-size: 28px">财力支持</h2>
+font-size: 24px">财力支持</h2>
 </div>
 
-<div class="space-y-4 flex-grow">
-<div class="p-4 rounded-xl h-[310px] flex flex-col justify-between" style="background: rgba(90, 123, 167, 0.08)">
+<div class="space-y-3 flex-grow">
+<div class="p-3 rounded-xl h-[310px] flex flex-col justify-between" style="background: rgba(90, 123, 167, 0.08)">
 <div>
-<div class="flex items-center gap-2 mb-2">
-<i class="material-icons" style="font-size: 24px;
+<div class="flex items-center gap-2 mb-1">
+<i class="material-icons" style="font-size: 20px;
 color: #5A7BA7">savings</i>
-<h3 class="font-bold text-lg" style="color: #2D3748">独立部门可支配资金</h3>
+<h3 class="font-bold text-base" style="color: #2D3748">独立部门可支配资金</h3>
 </div>
-<p class="text-base mb-4" style="color: #718096">支持创新探索与前期投入</p>
-</div>
-
-<div class="space-y-3">
-<div class="flex items-center gap-2">
-<div class="w-2 h-2 rounded-full flex-shrink-0" style="background: #5A7BA7"></div>
-<p class="text-base" style="color: #2D3748">创新软硬件前期调研</p>
-</div>
-<div class="flex items-center gap-2">
-<div class="w-2 h-2 rounded-full flex-shrink-0" style="background: #5A7BA7"></div>
-<p class="text-base" style="color: #2D3748">会员账号及设备购买</p>
-</div>
-<div class="flex items-center gap-2">
-<div class="w-2 h-2 rounded-full flex-shrink-0" style="background: #5A7BA7"></div>
-<p class="text-base" style="color: #2D3748">项目考察与技术交流</p>
-</div>
-</div>
-</div>
-</div>
-</div>
+<p class="text-sm mb-3" style="color: #718096">支持创新探索与前期投入</p>
 </div>
 
-<div class="rounded-2xl p-5" style="background: linear-gradient(135deg, rgba(90, 123, 167, 0.12) 0%, rgba(90, 123, 167, 0.05) 100%);
+<div class="space-y-2">
+<div class="flex items-center gap-2">
+<div class="w-1.5 h-1.5 rounded-full flex-shrink-0" style="background: #5A7BA7"></div>
+<p class="text-sm" style="color: #2D3748">创新软硬件前期调研</p>
+</div>
+<div class="flex items-center gap-2">
+<div class="w-1.5 h-1.5 rounded-full flex-shrink-0" style="background: #5A7BA7"></div>
+<p class="text-sm" style="color: #2D3748">会员账号及设备购买</p>
+</div>
+<div class="flex items-center gap-2">
+<div class="w-1.5 h-1.5 rounded-full flex-shrink-0" style="background: #5A7BA7"></div>
+<p class="text-sm" style="color: #2D3748">项目考察与技术交流</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="rounded-2xl p-4" style="background: linear-gradient(135deg, rgba(90, 123, 167, 0.12) 0%, rgba(90, 123, 167, 0.05) 100%);
 box-shadow: 0 8px 24px rgba(90, 123, 167, 0.1)">
 <div class="flex items-center justify-between">
 <div class="flex items-center gap-4">
-<i class="material-icons" style="font-size: 36px;
+<i class="material-icons" style="font-size: 32px;
 color: #5A7BA7">rocket_launch</i>
 <div>
 <h3 class="title-font font-bold mb-1" style="color: #2D3748;
-font-size: 22px">战略资源支持</h3>
-<p class="text-base" style="color: #718096">通过人力、物力、财力的综合支持，加速产品商业化落地与技术突破</p>
+font-size: 20px">战略资源支持</h3>
+<p class="text-sm" style="color: #718096">通过人力、物力、财力的综合支持，加速产品商业化落地与技术突破</p>
 </div>
 </div>
 <div class="flex gap-6">
 <div class="text-center">
-<p class="text-sm mb-1" style="color: #718096">关键岗位</p>
+<p class="text-xs mb-1" style="color: #718096">关键岗位</p>
 <p class="number-font font-bold" style="color: #5A7BA7;
-font-size: 32px">3</p>
+font-size: 28px">3</p>
 </div>
 <div class="text-center">
-<p class="text-sm mb-1" style="color: #718096">设备升级</p>
+<p class="text-xs mb-1" style="color: #718096">设备升级</p>
 <p class="number-font font-bold" style="color: #5A7BA7;
-font-size: 32px">2</p>
+font-size: 28px">2</p>
 </div>
 <div class="text-center">
-<p class="text-sm mb-1" style="color: #718096">资金支持</p>
+<p class="text-xs mb-1" style="color: #718096">资金支持</p>
 <p class="number-font font-bold" style="color: #5A7BA7;
-font-size: 32px">1</p>
+font-size: 28px">1</p>
 </div>
 </div>
 </div>
 </div>
 </div>
 </div>
+
 
 ---
