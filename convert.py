@@ -80,87 +80,37 @@ for filename in files:
             # inner_html = re.sub(r'py-8', 'py-4', inner_html)
             # inner_html = re.sub(r'p-8', 'p-6', inner_html)
             
-            # Special handling for Slide 17 (Charts)
+            # Generic script extraction
+            # Scan for inline <script> tags in the original HTML
             script_section = ""
-            if filename == "17.html":
-                script_section = """
+            script_matches = re.finditer(r'<script([^>]*)>(.*?)</script>', content, re.DOTALL)
+            extracted_js = []
+            
+            for match in script_matches:
+                attrs = match.group(1)
+                js_code = match.group(2).strip()
+                # We only want inline scripts (no src attribute) and non-empty content
+                if 'src=' not in attrs and js_code:
+                    extracted_js.append(js_code)
+            
+            if extracted_js:
+                combined_js = "\n".join(extracted_js)
+                
+                # Determine necessary imports
+                imports = ["import { onMounted } from 'vue'"]
+                if 'new Chart' in combined_js or 'Chart(' in combined_js:
+                    imports.append("import Chart from 'chart.js/auto'")
+                
+                import_block = "\n".join(imports)
+                
+                # Wrap in onMounted to ensure DOM elements exist
+                script_section = f"""
 <script setup>
-import { onMounted } from 'vue'
-import Chart from 'chart.js/auto'
+{import_block}
 
-onMounted(() => {
-    const lbeCtx = document.getElementById('lbeChart').getContext('2d');
-    new Chart(lbeCtx, {
-        type: 'line',
-        data: {
-            labels: ['2023', '2024', '2025', '2026', '2027', '2028'],
-            datasets: [{
-                label: '市场规模（亿美元）',
-                data: [12, 14.5, 17.2, 20.3, 24.1, 28.7],
-                borderColor: '#5A7BA7',
-                backgroundColor: 'rgba(90, 123, 167, 0.1)',
-                borderWidth: 3,
-                fill: true,
-                tension: 0.4,
-                pointBackgroundColor: '#5A7BA7',
-                pointBorderColor: '#fff',
-                pointBorderWidth: 2,
-                pointRadius: 5,
-                pointHoverRadius: 7
-            }]
-        },
-        options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            plugins: { legend: { display: false } },
-            scales: {
-                y: {
-                    beginAtZero: true,
-                    grid: { color: 'rgba(90, 123, 167, 0.1)' },
-                    ticks: { font: { size: 12 }, color: '#718096' }
-                },
-                x: {
-                    grid: { display: false },
-                    ticks: { font: { size: 12 }, color: '#718096' }
-                }
-            }
-        }
-    });
-
-    const aigcCtx = document.getElementById('aigcChart').getContext('2d');
-    new Chart(aigcCtx, {
-        type: 'doughnut',
-        data: {
-            labels: ['视频创意', '图像生成', '文本创作', '音频内容'],
-            datasets: [{
-                data: [35, 28, 22, 15],
-                backgroundColor: [
-                    'rgba(90, 123, 167, 0.85)',
-                    'rgba(90, 123, 167, 0.65)',
-                    'rgba(90, 123, 167, 0.45)',
-                    'rgba(90, 123, 167, 0.25)'
-                ],
-                borderWidth: 0
-            }]
-        },
-        options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            plugins: {
-                legend: {
-                    position: 'bottom',
-                    labels: {
-                        font: { size: 11 },
-                        color: '#2D3748',
-                        padding: 10,
-                        usePointStyle: true,
-                        pointStyle: 'circle'
-                    }
-                }
-            }
-        }
-    });
-});
+onMounted(() => {{
+{combined_js}
+}});
 </script>
 """
 
