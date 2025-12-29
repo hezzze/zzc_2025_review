@@ -4,12 +4,15 @@
   "scripts": {
     "dev": "slidev --open",
     "build": "slidev build",
-    "export": "slidev export"
+    "export": "slidev export --wait 3000"
   },
   "dependencies": {
     "@slidev/cli": "^0.48.0",
     "@slidev/theme-default": "^0.25.0",
     "chart.js": "^4.5.1",
     "vue": "^3.4.0"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.57.0"
   }
 }
